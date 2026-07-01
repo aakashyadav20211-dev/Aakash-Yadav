@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxury Estates",
+  "description": "An ultra-premium luxury real estate platform featuring curated high-end properties, live search filters, dynamic dashboards, and an interactive Gemini AI property advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
